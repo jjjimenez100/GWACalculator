@@ -1,0 +1,205 @@
+-GWA Calculator User Logs-
+Created at: 4/16/2017 8:56:01 PM
+4/16/2017 8:56:09 PM: Application started.
+4/16/2017 9:02:22 PM: Application started.
+4/16/2017 9:19:14 PM: Application started.
+4/16/2017 9:19:29 PM: Application started.
+4/16/2017 9:21:45 PM: Application started.
+4/16/2017 9:27:20 PM: Application started.
+4/16/2017 9:28:07 PM: Application started.
+4/16/2017 9:45:01 PM: Application started.
+4/16/2017 9:47:41 PM: Application started.
+4/16/2017 9:51:39 PM: Application started.
+4/16/2017 9:51:49 PM: Application started.
+4/16/2017 9:54:50 PM: Application started.
+4/16/2017 9:55:00 PM: Application started.
+4/16/2017 9:55:33 PM: Application started.
+4/16/2017 9:56:03 PM: Application started.
+4/16/2017 9:56:35 PM: Application started.
+4/16/2017 9:57:07 PM: Application started.
+4/16/2017 9:57:52 PM: Application started.
+4/16/2017 9:58:05 PM: Application started.
+4/16/2017 9:59:16 PM: Application started.
+4/16/2017 9:59:32 PM: Application started.
+4/16/2017 10:04:32 PM: Application started.
+4/18/2017 8:30:22 AM: Application started.
+4/18/2017 8:30:29 AM: Application started.
+4/18/2017 8:30:41 AM: Added subject haha  with a grade of 1 having 1 unit/s.
+4/18/2017 8:30:44 AM: Application started.
+4/18/2017 8:31:11 AM: Application started.
+4/18/2017 8:32:00 AM: Application started.
+4/18/2017 8:32:08 AM: Added subject test  with a grade of 1 having 1 unit/s.
+4/18/2017 8:32:11 AM: Deleted subject test  with a grade of 1 having 1 unit/s.
+4/18/2017 8:32:14 AM: Deleted subject haha  with a grade of 1 having 1 unit/s.
+4/18/2017 8:42:43 AM: Application started.
+4/18/2017 8:43:22 AM: Application started.
+4/18/2017 8:44:07 AM: Application started.
+4/18/2017 8:44:29 AM: Application started.
+4/18/2017 8:57:47 AM: Application started.
+4/18/2017 8:58:44 AM: Application started.
+4/18/2017 10:53:51 AM: Application started.
+4/18/2017 12:36:25 PM: Application started.
+4/18/2017 12:37:17 PM: Application started.
+4/18/2017 12:53:36 PM: Application started.
+4/18/2017 12:53:40 PM: Added subject dasdfaas  with a grade of 1.5 having 1 unit/s.
+4/18/2017 12:53:44 PM: Added subject agaghads  with a grade of 1.5 having 1 unit/s.
+4/18/2017 12:53:49 PM: Added subject adfasgfas  with a grade of 1.25 having 3 unit/s.
+4/18/2017 12:53:58 PM: Added subject sgdhsdf  with a grade of 2.25 having 2 unit/s.
+4/18/2017 12:54:04 PM: Added subject asdhdfs  with a grade of 5 having 2 unit/s.
+4/18/2017 12:54:07 PM: Added subject asfdsa  with a grade of 1.5 having 2 unit/s.
+4/18/2017 12:54:14 PM: Added subject adasgfad  with a grade of 2.5 having 3 unit/s.
+4/18/2017 12:54:18 PM: Added subject sdhsd  with a grade of 2.5 having 3 unit/s.
+4/18/2017 12:55:49 PM: Application started.
+4/18/2017 12:57:19 PM: Application started.
+4/18/2017 1:01:43 PM: Application started.
+4/18/2017 1:06:36 PM: Application started.
+4/18/2017 1:07:03 PM: Application started.
+4/18/2017 1:07:40 PM: Application started.
+4/18/2017 1:08:55 PM: Application started.
+4/18/2017 1:09:47 PM: Application started.
+4/18/2017 1:13:20 PM: Application started.
+4/18/2017 1:14:15 PM: Application started.
+4/18/2017 1:17:14 PM: Application started.
+4/18/2017 1:17:31 PM: Application started.
+4/18/2017 1:17:41 PM: Application started.
+4/18/2017 1:18:26 PM: Application started.
+4/18/2017 1:19:09 PM: Application started.
+4/18/2017 1:20:38 PM: Application started.
+4/18/2017 1:22:09 PM: Application started.
+4/18/2017 1:23:44 PM: Application started.
+4/18/2017 1:25:11 PM: Application started.
+4/18/2017 1:26:08 PM: Application started.
+4/18/2017 1:27:15 PM: Application started.
+4/18/2017 1:29:15 PM: Application started.
+4/18/2017 1:29:24 PM: Application started.
+4/18/2017 6:38:54 PM: Application started.
+4/18/2017 6:39:35 PM: Application started.
+4/18/2017 6:40:33 PM: Application started.
+4/18/2017 6:41:43 PM: Application started.
+4/18/2017 7:50:02 PM: Application started.
+4/18/2017 7:50:21 PM: Application started.
+4/18/2017 7:50:35 PM: Application started.
+4/18/2017 7:51:33 PM: Application started.
+4/18/2017 7:53:24 PM: Application started.
+4/18/2017 7:54:33 PM: Application started.
+4/18/2017 7:55:55 PM: Application started.
+4/18/2017 7:56:03 PM: Application started.
+4/18/2017 8:04:24 PM: Application started.
+4/18/2017 8:04:41 PM: Added subject asfasfasgsa  with a grade of 1 having 1 unit/s.
+4/18/2017 8:04:45 PM: Added subject asdaasgasafs  with a grade of 1 having 1 unit/s.
+4/18/2017 8:04:50 PM: Added subject adasgasgfas  with a grade of 1 having 1 unit/s.
+4/18/2017 8:04:53 PM: Added subject fdgdfgfdg  with a grade of 1 having 1 unit/s.
+4/18/2017 8:04:57 PM: Added subject dfhdhjdf  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:01 PM: Added subject sfdhgdfhdfhs  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:05 PM: Added subject dfgdfhdfhjdfjdf  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:08 PM: Added subject fjfgjfgjfdjd  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:13 PM: Added subject dgjfgjfhfghg  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:21 PM: Added subject fdjaffasga  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:24 PM: Added subject dgsdfhsdfhdf  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:27 PM: Added subject dghdfgjgg  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:30 PM: Added subject jhdfghdfhdfhdf  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:33 PM: Added subject fgjfgjhdjsdfjd  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:39 PM: Added subject asgasdfasfas  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:42 PM: Added subject adgsdsfdsdgds  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:45 PM: Added subject dgdssfdgfdsfsd  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:48 PM: Added subject gsdgsdfgsdfsd  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:51 PM: Added subject dsgsgfdsgdf  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:56 PM: Added subject dfgdfghahs  with a grade of 1 having 1 unit/s.
+4/18/2017 8:05:59 PM: Added subject dfgdfghadhsd  with a grade of 1 having 1 unit/s.
+4/18/2017 8:06:02 PM: Added subject dfhdfhfsdhdfhdf  with a grade of 1 having 1 unit/s.
+4/18/2017 8:06:04 PM: Added subject dhdfhashsf  with a grade of 1 having 1 unit/s.
+4/18/2017 8:07:57 PM: Application started.
+4/18/2017 8:09:39 PM: Application started.
+4/18/2017 8:10:32 PM: Application started.
+4/18/2017 8:10:46 PM: Application started.
+4/18/2017 8:10:57 PM: Application started.
+4/18/2017 8:18:05 PM: Application started.
+4/18/2017 8:26:20 PM: Application started.
+4/18/2017 8:30:40 PM: Application started.
+4/18/2017 8:31:36 PM: Application started.
+4/18/2017 8:31:58 PM: Application started.
+4/18/2017 8:32:15 PM: Application started.
+4/18/2017 8:33:31 PM: Application started.
+4/18/2017 8:35:46 PM: Application started.
+4/18/2017 8:36:04 PM: Application started.
+4/18/2017 8:36:21 PM: Application started.
+4/18/2017 8:37:40 PM: Application started.
+4/18/2017 8:37:54 PM: Application started.
+4/18/2017 8:38:04 PM: Application started.
+4/18/2017 8:40:06 PM: Application started.
+4/18/2017 8:40:28 PM: Application started.
+4/18/2017 8:40:41 PM: Application started.
+4/18/2017 8:40:59 PM: Application started.
+4/18/2017 8:41:12 PM: Application started.
+4/18/2017 8:41:28 PM: Application started.
+4/18/2017 9:35:58 PM: Application started.
+4/18/2017 9:36:51 PM: Application started.
+4/18/2017 9:37:38 PM: Application started.
+4/18/2017 9:37:50 PM: Application started.
+4/18/2017 9:38:04 PM: Application started.
+4/18/2017 9:50:17 PM: Application started.
+4/18/2017 9:54:14 PM: Application started.
+4/18/2017 9:54:33 PM: Application started.
+4/18/2017 9:55:31 PM: Application started.
+4/18/2017 9:58:27 PM: Application started.
+4/18/2017 9:59:13 PM: Application started.
+4/18/2017 10:00:25 PM: Application started.
+4/18/2017 10:41:55 PM: Application started.
+4/18/2017 11:04:13 PM: Application started.
+4/18/2017 11:04:56 PM: Application started.
+4/18/2017 11:07:08 PM: Application started.
+4/18/2017 11:07:46 PM: Application started.
+4/18/2017 11:08:25 PM: Application started.
+4/18/2017 11:08:39 PM: Application started.
+4/18/2017 11:08:51 PM: Application started.
+4/18/2017 11:09:31 PM: Application started.
+4/18/2017 11:09:42 PM: Application started.
+4/18/2017 11:10:45 PM: Application started.
+4/18/2017 11:11:11 PM: Application started.
+4/18/2017 11:11:34 PM: Application started.
+4/18/2017 11:19:51 PM: Application started.
+4/18/2017 11:20:08 PM: Application started.
+4/18/2017 11:23:38 PM: Application started.
+4/18/2017 11:25:19 PM: Application started.
+4/18/2017 11:30:46 PM: Application started.
+4/18/2017 11:32:57 PM: Application started.
+4/18/2017 11:33:20 PM: Application started.
+4/18/2017 11:35:30 PM: Application started.
+4/18/2017 11:36:45 PM: Application started.
+4/18/2017 11:37:27 PM: Application started.
+4/18/2017 11:39:22 PM: Application started.
+4/18/2017 11:40:00 PM: Application started.
+4/18/2017 11:40:22 PM: Application started.
+4/18/2017 11:41:49 PM: Application started.
+4/18/2017 11:42:46 PM: Application started.
+4/18/2017 11:43:12 PM: Application started.
+4/18/2017 11:45:44 PM: Application started.
+4/18/2017 11:46:01 PM: Application started.
+4/18/2017 11:46:31 PM: Application started.
+4/18/2017 11:47:10 PM: Application started.
+4/18/2017 11:47:37 PM: Application started.
+4/18/2017 11:49:31 PM: Application started.
+4/18/2017 11:50:23 PM: Application started.
+4/19/2017 11:24:50 AM: Application started.
+4/19/2017 11:26:46 AM: Application started.
+4/19/2017 12:04:12 PM: Application started.
+4/19/2017 12:04:33 PM: Application started.
+4/19/2017 12:05:25 PM: Application started.
+4/19/2017 12:07:02 PM: Application started.
+4/19/2017 12:08:12 PM: Application started.
+4/19/2017 1:08:01 PM: Application started.
+4/19/2017 1:10:18 PM: Application started.
+4/19/2017 1:10:30 PM: Application started.
+4/19/2017 1:11:44 PM: Application started.
+4/19/2017 1:11:51 PM: Application started.
+4/19/2017 1:16:29 PM: Application started.
+4/19/2017 1:17:25 PM: Application started.
+4/19/2017 1:21:41 PM: Application started.
+4/19/2017 1:24:26 PM: Application started.
+4/20/2017 9:52:30 PM: Application started.
+4/20/2017 10:41:09 PM: Application started.
+4/20/2017 10:50:46 PM: Application started.
+4/20/2017 10:51:09 PM: Application started.
+4/20/2017 10:56:20 PM: Application started.
+4/20/2017 11:05:55 PM: Application started.
+4/21/2017 1:19:50 AM: Application started.
